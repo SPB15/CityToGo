@@ -8,7 +8,7 @@
     padding: 10px;
     text-decoration: none;
     text-transform: uppercase;
-	float: left;
+	float: Left;
 }
 
 #nav a:hover, a:active {
@@ -28,6 +28,7 @@
 	font-weight: bold;
 	margin-bottom: 10px;
 	text-align:center;
+	float:center;
 }
 
 #nav li{
